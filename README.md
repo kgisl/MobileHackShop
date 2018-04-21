@@ -1,1 +1,7 @@
-# KGISL Mobile HackShop 2016-2017
+# KGISL Mobile HackShop 
+
+Two main activities:
+
+## Day long workshop for setting up Cross Platform Mobile Environments 
+
+## Exhibition of Apps Developed by end of Semester 
